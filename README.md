@@ -45,8 +45,6 @@ Make sure you have the following installed:
         Create a local.properties file in the root directory and add your API keys and other configuration settings.
    For example:
 
-        plaintext
-
         API_URL=https://api.example.com/Todo_Basic
 
     Build and run the app:
