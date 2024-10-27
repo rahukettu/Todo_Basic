@@ -42,7 +42,8 @@ Make sure you have the following installed:
         Android Studio will prompt you to sync the project. Click on Sync Now to download the required dependencies.
 
     Set up environment variables:
-        Create a local.properties file in the root directory and add your API keys and other configuration settings. For example:
+        Create a local.properties file in the root directory and add your API keys and other configuration settings.
+   For example:
 
         plaintext
 
